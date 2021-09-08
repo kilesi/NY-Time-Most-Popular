@@ -6,8 +6,9 @@ The app hits the NY Times Most Popular API and fetches data
 which is a list of articles which when clicked/tapped shows further details.
 
 # Technologies/libraries used.
-1. Retrofit, this is used to consume the NY Most Popular API.
-2. MVVM, Model View ViewModel, which helps to separate concerns.
+1. Ion, this is used to consume the NY Most Popular API.
+2. Glide, this library was used to load images on the app.
+3. MVVM, Model View ViewModel, which helps to separate concerns.
 
 # building and running the code.
 1. Make sure you have android studio installed on your machine.
